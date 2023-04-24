@@ -1,0 +1,239 @@
+
+
+____________________________________________________________________________________________________
+File: FGF_DOWN-NA_GObio_TABLE.txt, Gene: DUSP6
+________________________________________________________________________________
+                               Term                           
+10            peptidyl-tyrosine dephosphorylation (GO:0035335)
+14                regulation of apoptotic process (GO:0042981)
+29            negative regulation of MAPK cascade (GO:0043409)
+52           peptidyl-threonine dephosphorylation (GO:0035970)
+55                                   MAPK cascade (GO:0000165)
+62   negative regulation of ERK1 and ERK2 cascade (GO:0070373)
+82            regulation of ERK1 and ERK2 cascade (GO:0070372)
+179                     protein dephosphorylation (GO:0006470)
+253                             dephosphorylation (GO:0016311)
+556         cellular protein modification process (GO:0006464)
+592  positive regulation of programmed cell death (GO:0043068)
+
+____________________________________________________________________________________________________
+File: FGF_DOWN-NA_GOmolecular_TABLE.txt, Gene: DUSP6
+________________________________________________________________________________
+                                     Term                                 
+3                                      protein kinase binding (GO:0019901)
+4   MAP kinase tyrosine/serine/threonine phosphatase activity (GO:0017017)
+5             protein tyrosine/threonine phosphatase activity (GO:0008330)
+6                             MAP kinase phosphatase activity (GO:0033549)
+19     protein tyrosine/serine/threonine phosphatase activity (GO:0008138)
+27                   mitogen-activated protein kinase binding (GO:0051019)
+
+____________________________________________________________________________________________________
+File: BMP_DOWN-NA_GOcell_TABLE.txt, Gene: MSX2
+________________________________________________________________________________
+                           Term                         
+0                                   nucleus (GO:0005634)
+1  intracellular membrane-bounded organelle (GO:0043231)
+
+____________________________________________________________________________________________________
+File: BMP_DOWN-NA_GObio_TABLE.txt, Gene: MSX2
+________________________________________________________________________________
+                                          Term                                      
+0                                     cardiac muscle tissue development (GO:0048738)
+1                            regulation of transcription, DNA-templated (GO:0006355)
+3                      regulation of transcription by RNA polymerase II (GO:0006357)
+4           negative regulation of nucleic acid-templated transcription (GO:1903507)
+6                   negative regulation of transcription, DNA-templated (GO:0045892)
+7             negative regulation of transcription by RNA polymerase II (GO:0000122)
+11   negative regulation of cellular macromolecule biosynthetic process (GO:2000113)
+28                                cardiac conduction system development (GO:0003161)
+160  negative regulation of transcription regulatory region DNA binding (GO:2000678)
+215                                  negative regulation of DNA binding (GO:0043392)
+
+____________________________________________________________________________________________________
+File: BMP_DOWN-NA_GOmolecular_TABLE.txt, Gene: MSX2
+________________________________________________________________________________
+                                                Term                                            
+1                                     sequence-specific double-stranded DNA binding (GO:1990837)
+2                                                     sequence-specific DNA binding (GO:0043565)
+3   RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)
+7                                       transcription cis-regulatory region binding (GO:0000976)
+8                                                       double-stranded DNA binding (GO:0003690)
+9                              transcription regulatory region nucleic acid binding (GO:0001067)
+12                                                                      DNA binding (GO:0003677)
+
+____________________________________________________________________________________________________
+File: BMP_DOWN-NA_GOcell_TABLE.txt, Gene: CSRP2
+________________________________________________________________________________
+                           Term                         
+0                                   nucleus (GO:0005634)
+1  intracellular membrane-bounded organelle (GO:0043231)
+
+____________________________________________________________________________________________________
+File: FGF_UP-NA_GOcell_TABLE.txt, Gene: CSRP2
+________________________________________________________________________________
+                    Term                
+19  cell-substrate junction (GO:0030055)
+21           focal adhesion (GO:0005925)
+
+____________________________________________________________________________________________________
+File: BMP_DOWN-NA_GObio_TABLE.txt, Gene: CSRP2
+________________________________________________________________________________
+                      Term                 
+146  muscle tissue development (GO:0060537)
+208     sarcomere organization (GO:0045214)
+248         myofibril assembly (GO:0030239)
+
+____________________________________________________________________________________________________
+File: BMP_DOWN-NA_GOmolecular_TABLE.txt, Gene: CSRP2
+________________________________________________________________________________
+                Term            
+22  actinin binding (GO:0042805)
+
+____________________________________________________________________________________________________
+File: FGF_DOWN-NA_GOcell_TABLE.txt, Gene: EN2
+________________________________________________________________________________
+                             Term                           
+0  intracellular non-membrane-bounded organelle (GO:0043232)
+1                                       nucleus (GO:0005634)
+2                                 nuclear lumen (GO:0031981)
+3                                     nucleolus (GO:0005730)
+4      intracellular membrane-bounded organelle (GO:0043231)
+
+____________________________________________________________________________________________________
+File: BMP_DOWN-NA_GOcell_TABLE.txt, Gene: EN2
+________________________________________________________________________________
+                           Term                         
+0                                   nucleus (GO:0005634)
+1  intracellular membrane-bounded organelle (GO:0043231)
+
+____________________________________________________________________________________________________
+File: FGF_DOWN-NA_GObio_TABLE.txt, Gene: EN2
+________________________________________________________________________________
+                                 Term                             
+4                               generation of neurons (GO:0048699)
+8    regulation of transcription by RNA polymerase II (GO:0006357)
+40                             neuron differentiation (GO:0030182)
+130        regulation of transcription, DNA-templated (GO:0006355)
+
+____________________________________________________________________________________________________
+File: BMP_DOWN-NA_GObio_TABLE.txt, Gene: EN2
+________________________________________________________________________________
+                                Term                             
+1         regulation of transcription, DNA-templated (GO:0006355)
+3   regulation of transcription by RNA polymerase II (GO:0006357)
+45                            neuron differentiation (GO:0030182)
+80                             generation of neurons (GO:0048699)
+
+____________________________________________________________________________________________________
+File: FGF_DOWN-NA_GOmolecular_TABLE.txt, Gene: EN2
+________________________________________________________________________________
+                                                Term                                            
+1                                                     sequence-specific DNA binding (GO:0043565)
+2                                     sequence-specific double-stranded DNA binding (GO:1990837)
+8                                                       double-stranded DNA binding (GO:0003690)
+59                              cis-regulatory region sequence-specific DNA binding (GO:0000987)
+70  RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)
+85            RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)
+
+____________________________________________________________________________________________________
+File: BMP_DOWN-NA_GOmolecular_TABLE.txt, Gene: EN2
+________________________________________________________________________________
+                                               Term                                            
+1                                    sequence-specific double-stranded DNA binding (GO:1990837)
+2                                                    sequence-specific DNA binding (GO:0043565)
+3  RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)
+5            RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)
+6                              cis-regulatory region sequence-specific DNA binding (GO:0000987)
+8                                                      double-stranded DNA binding (GO:0003690)
+
+____________________________________________________________________________________________________
+File: BMP_UP-NA_GOcell_TABLE.txt, Gene: FHL1
+________________________________________________________________________________
+                    Term                
+14           focal adhesion (GO:0005925)
+16  cell-substrate junction (GO:0030055)
+
+____________________________________________________________________________________________________
+File: BMP_UP-NA_GObio_TABLE.txt, Gene: FHL1
+________________________________________________________________________________
+                             Term                        
+90   negative regulation of cellular process (GO:0048523)
+104       negative regulation of cell growth (GO:0030308)
+105            negative regulation of growth (GO:0045926)
+
+____________________________________________________________________________________________________
+File: BMP_DOWN-NA_GOcell_TABLE.txt, Gene: IRX2
+________________________________________________________________________________
+                           Term                         
+0                                   nucleus (GO:0005634)
+1  intracellular membrane-bounded organelle (GO:0043231)
+
+____________________________________________________________________________________________________
+File: BMP_DOWN-NA_GObio_TABLE.txt, Gene: IRX2
+________________________________________________________________________________
+                                     Term                                 
+1                  regulation of transcription, DNA-templated (GO:0006355)
+3            regulation of transcription by RNA polymerase II (GO:0006357)
+6         negative regulation of transcription, DNA-templated (GO:0045892)
+7   negative regulation of transcription by RNA polymerase II (GO:0000122)
+45                                     neuron differentiation (GO:0030182)
+80                                      generation of neurons (GO:0048699)
+
+____________________________________________________________________________________________________
+File: BMP_DOWN-NA_GOmolecular_TABLE.txt, Gene: IRX2
+________________________________________________________________________________
+                                                Term                                            
+2                                                     sequence-specific DNA binding (GO:0043565)
+3   RNA polymerase II transcription regulatory region sequence-specific DNA binding (GO:0000977)
+5             RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)
+6                               cis-regulatory region sequence-specific DNA binding (GO:0000987)
+12                                                                      DNA binding (GO:0003677)
+25         DNA-binding transcription repressor activity, RNA polymerase II-specific (GO:0001227)
+
+____________________________________________________________________________________________________
+File: BMP_UP-NA_GOmolecular_TABLE.txt, Gene: NHLH1
+________________________________________________________________________________
+                                           Term                                       
+6                                           sequence-specific DNA binding (GO:0043565)
+8                           sequence-specific double-stranded DNA binding (GO:1990837)
+11                                            double-stranded DNA binding (GO:0003690)
+28  RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)
+
+____________________________________________________________________________________________________
+File: BMP_UP-NA_GObio_TABLE.txt, Gene: NHLH1
+________________________________________________________________________________
+                                     Term                                 
+3                          central nervous system development (GO:0007417)
+11                                 nervous system development (GO:0007399)
+26        positive regulation of transcription, DNA-templated (GO:0045893)
+42           regulation of transcription by RNA polymerase II (GO:0006357)
+74  positive regulation of transcription by RNA polymerase II (GO:0045944)
+
+____________________________________________________________________________________________________
+File: BMP_UP-NA_GOmolecular_TABLE.txt, Gene: PADI3
+________________________________________________________________________________
+                          Term                      
+24  protein-arginine deiminase activity (GO:0004668)
+
+____________________________________________________________________________________________________
+File: BMP_UP-NA_GObio_TABLE.txt, Gene: PADI3
+________________________________________________________________________________
+                    Term                
+126  histone citrullination (GO:0036414)
+135  protein citrullination (GO:0018101)
+
+____________________________________________________________________________________________________
+File: BMP_UP-NA_GOcell_TABLE.txt, Gene: SMOC1
+________________________________________________________________________________
+                           Term                         
+0  collagen-containing extracellular matrix (GO:0062023)
+
+____________________________________________________________________________________________________
+File: BMP_UP-NA_GObio_TABLE.txt, Gene: SMOC1
+________________________________________________________________________________
+                                Term                           
+17              regulation of cell differentiation (GO:0045595)
+31               extracellular matrix organization (GO:0030198)
+36            extracellular structure organization (GO:0043062)
+40   external encapsulating structure organization (GO:0045229)
+169                                eye development (GO:0001654)
