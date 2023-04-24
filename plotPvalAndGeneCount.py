@@ -42,7 +42,7 @@ def main(indexOfFile=None, numberOfFiles=None, compact=False, combCellBioMol=Fal
         else:
             dataList = dataList[:numberOfFiles]
             colorList = colorList[:numberOfFiles]
-            imageName = "maxPval2GeneCount"
+            imageName = "imagesMaxPval2GeneCount"
             tools.mkdirIfNotExists(imageName)
             imageName += "/total_"
             if limitPvalue is not None: imageName += "lim" + str(limitPvalue).replace("0.0", "") + "_"
@@ -58,7 +58,7 @@ def main(indexOfFile=None, numberOfFiles=None, compact=False, combCellBioMol=Fal
         else:
             dataList = [dataList[indexOfFile]]
             colorList = [colorList[indexOfFile]]
-            imageName = "maxPval2GeneCount/perFile"
+            imageName = "imagesMaxPval2GeneCount/perFile"
         if limitPvalue is not None: imageName += "lim" + str(limitPvalue).replace("0.0", "")
         tools.mkdirIfNotExists(imageName, opts="-p")
         imageName += "/"+str(indexOfFile)+"_"
